@@ -51,8 +51,8 @@ Natureza: 64% analítico
 Abordagem: 78% planejador
 Identidade: 99% assertivo
 """
-insert_contexto('produtos', produtos_ctx)
-insert_contexto('estrategia', estrategia_ctx)
-insert_contexto('publico_alvo', publico_alvo_ctx)
-insert_contexto('planejamento', planejamento_ctx)
-insert_contexto('personalidade_do_cliente', personalidade_ctx)
+insert_contexto('Produtos', produtos_ctx)
+insert_contexto('Estratégia', estrategia_ctx)
+insert_contexto('Público Alvo', publico_alvo_ctx)
+insert_contexto('Planejamento', planejamento_ctx)
+insert_contexto('Personalidade do cliente', personalidade_ctx)
